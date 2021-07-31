@@ -1,12 +1,32 @@
+ .navbar{
+    list-style-type: none;
+    margin: 20px;
+    padding: 0px;
+}
+.top {
+    outline: none;
+    display: inline;
+}
+#top-left{
+    padding: 10px;
+}
+#top-right{
+    padding: 10px;
+    float: right;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
 .logo {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 235px;
     width: auto;
+
 }
-div {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: auto;
+.searchbar {
+    width: 100%;
+    text-align: center;
 }
