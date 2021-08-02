@@ -3,13 +3,17 @@
     display: flex;
     justify-content: center;
     margin-right: 20px;
-    padding: 10px 5px 10px 10px;
+    padding: 0px 16px;
     cursor: pointer;
     background-color: #f8f9fa;
     border-radius: 4px;
     border: 1px solid #f8f9fa;
     
  }
+ #google-search:hover, #feeling-lucky:hover{
+    border-color: #d4d3d3;
+ }
+
  #feeling-lucky{
     color: #3c4043;
     display: flex;
@@ -97,6 +101,11 @@ a:hover{
     width: 580px;
 
 }
+.search-wrapper:hover{
+    box-shadow: 0 1px 6px rgb(32 33 36 / 28%);
+    border-color: rgba(223,225,229,0);
+}
+
 .search-term{
     padding-top: 10px;
     width: 500px;
