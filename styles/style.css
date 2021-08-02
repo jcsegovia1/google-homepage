@@ -91,6 +91,10 @@ footer {
     margin-top: 10px;
     width: 4.3%;
 }
+.microphone-icon:hover{
+    cursor: pointer;
+}
+
 #bottom-right{
     margin: 0px 5px 0px 5px;
     float: right;
