@@ -168,7 +168,7 @@ input[type="search"]::-webkit-search-results-decoration { display: none; }
 }
 body, input, button {
     font-size: 14px;
-    font-family: Roboto,arial,sans-serif;
+    font-family: Roboto,arial,sans-serif !important;
 }
 
 
