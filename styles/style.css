@@ -167,6 +167,11 @@ body, input, button {
     font-family: Roboto,arial,sans-serif;
 }
 
+.shortcut{
+    width: 100%;
+    height: auto;
+}
+
 
 
 
