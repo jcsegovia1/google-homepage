@@ -171,20 +171,20 @@ body, input, button {
  code for footer 
 */
 /* code for display flex grid
- .div2
+ .footer
  display: flex;
  flex-wrap: wrap;
  justify-content: space-between;
 
- .div3
+ .footer1
  justify-content: flex-start;
  min-width: 30%;
  order: 1;
 
-.div4
+.footer2
 order: 2;
 
-.div5
+.footer3
 justify-content: flex-end;
 mind-width: 30%;
 order: 3;
