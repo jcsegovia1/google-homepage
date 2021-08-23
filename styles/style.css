@@ -171,23 +171,26 @@ body, input, button {
  code for footer 
 */
 /* code for display flex grid
- .footer
+ .footer {
  display: flex;
  flex-wrap: wrap;
  justify-content: space-between;
+}
 
- .footer1
+ .footer1{
  justify-content: flex-start;
  min-width: 30%;
  order: 1;
+}
 
-.footer2
+.footer2 {
 order: 2;
-
-.footer3
+}
+.footer3 {
 justify-content: flex-end;
 mind-width: 30%;
 order: 3;
+}
 */
 
 
